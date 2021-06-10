@@ -1,0 +1,24 @@
+.breedCard {
+  width:100%;
+  overflow: hidden;
+  margin: 25px;
+}
+
+.breedCard img {
+  height: 300px;
+}
+
+.subBreedSlide {
+  width: 100%; /* full width */
+}
+
+.breedTitle {
+    text-transform: capitalize;
+}
+
+.buttonArea {
+    margin-top:25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

@@ -1,0 +1,31 @@
+.cardsContainer {
+    justify-content: space-around;
+    padding-top:60px;
+}
+
+.toolbar {
+    justify-content: space-between;
+}
+
+.searchInput input {
+    color:#fff;
+}
+
+.searchInputContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.magnifyingGlass svg {
+    opacity: 0.6;
+    position: relative;
+    top: 50%;
+    transform: translatey(-50%);
+    padding-right: 5px;
+}
+
+.titleArea svg {
+    margin-right: 5px;
+    margin-top: 4px;
+    margin-bottom:-5px;
+}
