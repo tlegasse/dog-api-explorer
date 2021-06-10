@@ -71,6 +71,7 @@ class App extends React.Component {
                   </Grid>
                 )
               }
+              return '';
             })
           }
         </Grid>
